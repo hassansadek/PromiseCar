@@ -19,6 +19,7 @@
 <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
 
 
+<script type="text/javascript"></script>
 
 </head>
 
@@ -325,5 +326,8 @@
     });
 </script>
 
+
+
 </body>
+
 </html>
